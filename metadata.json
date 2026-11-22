@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Craft",
+  "description": "Mobile grammar exercise app with Intro, topic-grouped Content plates, GitHub HTML import with automatic revision, and a Play or Watch HTML player that preserves original HTML background formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

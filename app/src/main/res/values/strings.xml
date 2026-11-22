@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Grammar Craft</string>
+    <string name="nav_intro">Intro</string>
+    <string name="nav_content">Content</string>
+    <string name="nav_play_watch">Play / Watch</string>
+    <string name="intro_welcome_title">Grammar Craft Studio</string>
+    <string name="intro_welcome_subtitle">Revise rules, explore compositions, and play interactive HTML quizzes grouped by grammar topic.</string>
+    <string name="github_sync_title">Import HTMLs from GitHub</string>
+    <string name="github_url_hint">https://github.com/username/grammar-repo</string>
+    <string name="github_sync_button">Fetch &amp; Group HTMLs</string>
+    <string name="content_header_title">Grammar Topics</string>
+    <string name="play_watch_header">Play or Watch</string>
+    <string name="html_format_preserved">HTML Background Preserved</string>
+</resources>
